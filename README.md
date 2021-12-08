@@ -1,4 +1,4 @@
-## Olá! Eu sou o Joabe! 😄
+## Olá! Eu sou Joabe. Seja muito bem-vindo(a) ao meu perfil! 😄
 
 - 💼 Hoje trabalho como Analista de Testes Automatizados
 - 📚 Cursando Sistemas de Informação
