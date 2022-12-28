@@ -2,7 +2,6 @@
 
 - 💼 Hoje trabalho como Analista de Testes Automatizados
 - 📚 Cursando Sistemas de Informação
-- 😉 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/joabecoelho">
