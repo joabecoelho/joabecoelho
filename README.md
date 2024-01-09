@@ -1,7 +1,7 @@
 ## Olá, eu sou Joabe. Seja bem-vindo(a) ao meu perfil! 😄
 
 - 💼 Hoje trabalho como Analista de Testes Automatizados
-- 📚 Cursando Sistemas de Informação
+- 📚 Formado Sistemas de Informação - 2023
 
 <div align="center">
   <a href="https://github.com/joabecoelho">
